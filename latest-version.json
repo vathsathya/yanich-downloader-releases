@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.1/Yanich-Downloader-win-x64.zip",
+  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.1/Yanich%20Downloader%20Setup%201.0.1.exe",
   "notes": "",
-  "sha256": "c90e1e7d22cb9e53c6d5e39f927eff869e9988f142eb1b682781c9359d74c0da",
+  "sha256": "982f3920e9eb5e7721cfc78e97eda7b6ea04fa0be8be7950491f222dc2d14297",
   "signature": "d64b60b4ae798a573044cd4a5cb2b75b8fd72166157a4c8f6dcc7e40a727a1436d11b45cb9ac34a34010920dbc462190a4b76dedd04a6345afdb33a699254705"
 }
