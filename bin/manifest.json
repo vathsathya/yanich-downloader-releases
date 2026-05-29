@@ -1,0 +1,7 @@
+{
+    "version": "7.1",
+    "files": {
+        "ffmpeg.exe": "bin/ffmpeg.exe",
+        "ffprobe.exe": "bin/ffprobe.exe"
+    }
+}
