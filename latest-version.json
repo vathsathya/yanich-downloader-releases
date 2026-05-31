@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.4/Yanich.Downloader.Setup.1.0.4.exe",
+  "version": "1.0.1",
+  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.1/Yanich.Downloader.Setup.1.0.1.exe",
   "notes": "",
-  "sha256": "2c3eef3e85f2b0272207bc571805dbbf85d98a78c3ba392e0a916481d9257f4e",
-  "signature": "4043f9f08e1e2f10fc7d8f7bea7d185865da33d51bce827b3c2a1f3d9d69f07acef4aacda7d99e1d1f4f1c1d178d6ddc3bdf9eca195df2a2a413dc6bda591e0b"
+  "sha256": "7a278c2fb0e733c7cc9e3e0d001c13fa53d5cbd43648f3a096ee6348ee378a86",
+  "signature": "d8f9f883dd3ceb4171d107306777eaf479ad4ae45a758508fd6d5e1505e5e237c1032bbd69f388fb9f823f27f61f3cdacb2312372bbf6b939842ebff56846d01"
 }
