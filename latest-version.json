@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.3/Yanich.Downloader.Setup.1.0.3.exe",
-  "notes": "",
-  "sha256": "892deee8aac2dda7f807cc380292b7d5285d8d4be60bdfe12b00574c2b29b2fd",
-  "signature": "a9a37464b463079f282ab5e841f5b41b0b62a2a9f790e75f9497a3e1807bd2d78ac20defe84f71eeeca16d6b1da527d94c33c522d888c3c4234b26e55c273d07"
+  "version": "1.0.4",
+  "url": "https://github.com/vathsathya/yanich-downloader-releases/releases/download/v1.0.4/Yanich.Downloader.Setup.1.0.4.exe",
+  "notes": "v1.0.4 Update:\n- Added TikTok Drama Series multi-episode batch grabbing & downloader (supports all 60+ episodes).\n- High-speed native HTTP streaming engine for direct MP4 downloads.\n- Stream caching with retry backoff.\n- Fixed CDN read timeout and connection pool handling.\n- Added GitHub Actions CI/CD automation pipeline.",
+  "sha256": "7a9da21783f325705915dff7995cbd60057db901a8d14d520b1931d8e7339c2d",
+  "signature": "680e1d154fa8edc42b8c5fa5fc155288aed7cca1ccfb2f2232f38800b0894a0bdadb412131c9040403683fb14e048350cf7472da43a83f91d777585b33d46c01"
 }
